@@ -1,13 +1,13 @@
 ## Sidebar CSS
 
-- Uses a hidden checkbox to toggle the sidebar in/out with pure CSS — no JavaScript needed!
-- Sidebar slides in from the left when `#check` is checked.
-- Hamburger icon disappears when sidebar is open.
-- Close icon fades in when sidebar is open.
-- Smooth transitions (`transition: all 0.3s linear`) for slide and icon hover effects.
-- Social icons get a hover scale and opacity effect.
-- Sidebar links highlight with a subtle box-shadow on hover.
-- Fully responsive: works on any screen size.
+- Hidden checkbox toggles sidebar (no JavaScript).
+- Sidebar slides in from the left when checked.
+- Hamburger icon hides when sidebar opens.
+- Close icon fades in when sidebar opens.
+- Smooth transitions (0.3s) for sliding and hover.
+- Social icons scale up and become clearer on hover.
+- Sidebar links show soft box-shadow on hover.
+- 
 
 ## Key CSS Techniques:
 
